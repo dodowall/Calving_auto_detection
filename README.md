@@ -1,4 +1,4 @@
-# Calving_detection
+# Calving_auto_detection
 Program to automatically detect calving at the front of a tidewater glacier from timelapse images
 
 how to download: 
