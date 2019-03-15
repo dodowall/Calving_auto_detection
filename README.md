@@ -6,7 +6,7 @@ how to download: https://zenodo.org/badge/latestdoi/175037496
 how to cite: Vallot D.,  Adinugroho S., Strand R. and Pettersson R.: Program to automatically detect calving at the front of a tidewater glacier from timelapse images, Zenodo, doi: 10.5281/zenodo.2591197, 2019.
 
 More details in the scientific article:
-
+Vallot, D., Adinugroho, S., Strand, R., How, P., Pettersson, R., Benn, D. I., and Hulton, N. R. J.: Automatic detection of calving events from time-lapse imagery at Tunabreen, Svalbard, Geosci. Instrum. Method. Data Syst., 2019. 
 
 REQUIREMENT : 
 The application uses some internal functions introduced in MATLAB 2014b. Therefore, it won’t work on MATLAB version lower than 2014b. 
